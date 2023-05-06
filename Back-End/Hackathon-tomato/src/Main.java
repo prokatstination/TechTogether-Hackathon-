@@ -1,7 +1,7 @@
 import java.lang.reflect.Array;
 import java.util.Scanner;
 import java.util.ArrayList;
-
+// THIS IS PAMS CODE WE TRANSLATED TO PYTHON
 public class Main {
     public static void main(String[] args) {
         //------------------------------------------------------------
